@@ -2,6 +2,11 @@
 
 Beerbook is a site for finding information about all of your favorite beers and hops. It is written using React, and relies on the <a href="https://www.brewerydb.com/">BreweryDB API</a> for data.
 
+<div style="display: flex; justify-content: space-around; flex-wrap: wrap;">
+  <img src="public/Beerbook_Home.png" alt="Image of Beerbook Home Page" width="400">
+  <img src="public/Beerbook_Beers.png" alt="Image of Beerbook Home Page" width="400">
+  <img src="public/Beerbook_Search.png" alt="Image of Beerbook Home Page" width="400">
+</div>
 
 This project is a collaberation between myself (<a href="https://github.com/taylorrgriffin">taylorrgriffin</a>) and Ethan Ahuja (<a href="https://github.com/ahujae">ahujae</a>), and was our final project for the Advanced Web Development course at Oregon State University. 
 
